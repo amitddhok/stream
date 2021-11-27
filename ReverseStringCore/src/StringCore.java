@@ -1,4 +1,4 @@
-
+//welcome
 public class StringCore {
 
 }
